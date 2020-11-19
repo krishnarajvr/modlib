@@ -1,0 +1,2 @@
+# modlib
+Go Module example
