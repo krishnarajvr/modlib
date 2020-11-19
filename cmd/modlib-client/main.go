@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/eliben/modlib"
-	"github.com/eliben/modlib/clientlib"
+	"github.com/krishnarajvr/modlib"
+	"github.com/krishnarajvr/modlib/clientlib"
 )
 
 func main() {
